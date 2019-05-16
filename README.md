@@ -12,5 +12,7 @@ Prediction Data Plotted
 
 Predicted Value --- some details
 
-Analysed data 3 lines
+Analysed data 3 lines on analysis
+
+Accuracy 
 
